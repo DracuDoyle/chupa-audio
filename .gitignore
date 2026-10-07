@@ -1,0 +1,25 @@
+# Entorno virtual de Python
+.venv/
+
+# Archivos de audio en tránsito
+tmp/
+
+# Configuración local (puede contener el PIN)
+config.toml
+
+# Cache de Python
+__pycache__/
+*.pyc
+
+# Archivos de yt-dlp
+*.part
+*.ytdl
+
+# Editores
+.vscode/
+.idea/
+*.swp
+
+# Sistema operativo
+.DS_Store
+Thumbs.db
